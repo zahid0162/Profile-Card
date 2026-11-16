@@ -107,13 +107,13 @@ In your app module's `build.gradle.kts` (`app/build.gradle.kts`):
 
 ```kotlin
 dependencies {
-    implementation("com.github.zahid0162:Profile-Card:1.0.0")
+    implementation("com.github.zahid0162:Profile-Card:v1.0.0")
 }
 ```
 
 **Example:**
 ```kotlin
-implementation("com.github.johndoe:auraprofile-card:v1.0.0")
+implementation("com.github.zahid0162:Profile-Card:v1.0.0")
 ```
 
 ---
