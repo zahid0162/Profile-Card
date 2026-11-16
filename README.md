@@ -94,9 +94,7 @@ In your app module's `build.gradle.kts` (`app/build.gradle.kts`):
 
 ```kotlin
 dependencies {
-    // Replace [YOUR_GITHUB_USERNAME] and [YOUR_REPOSITORY_NAME] with your GitHub details
-    // Replace [VERSION_TAG] with the release tag (e.g. 1.0.0 or v1.0.0)
-    implementation("com.github.[YOUR_GITHUB_USERNAME]:[YOUR_REPOSITORY_NAME]:[VERSION_TAG]")
+    implementation("com.github.zahid0162:Profile-Card:1.0.0")
 }
 ```
 
