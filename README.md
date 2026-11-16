@@ -100,40 +100,8 @@ dependencies {
 
 **Example:**
 ```kotlin
-implementation("com.github.johndoe:auraprofile-card:1.0.0")
+implementation("com.github.johndoe:auraprofile-card:v1.0.0")
 ```
-
----
-
-## 🚀 How to Publish Your Own Release on JitPack
-
-Follow these simple steps to make your repository installable by anyone in the world:
-
-1. **Push your code to GitHub**:
-   ```bash
-   git init
-   git add .
-   git commit -m "Initial commit of AuraProfileCard library"
-   git remote add origin https://github.com/[YOUR_GITHUB_USERNAME]/[YOUR_REPOSITORY_NAME].git
-   git branch -M main
-   git push -u origin main
-   ```
-
-2. **Create a GitHub Release**:
-   - Go to your repository on GitHub: `https://github.com/[YOUR_GITHUB_USERNAME]/[YOUR_REPOSITORY_NAME]`
-   - On the right sidebar, click **Releases** -> **Draft a new release**.
-   - In **Choose a tag**, enter `1.0.0` (or `v1.0.0`) and click **Create new tag**.
-   - Add a title (e.g. `Release 1.0.0`) and click **Publish release**.
-
-3. **Build on JitPack**:
-   - Open **[jitpack.io](https://jitpack.io/)** in your browser.
-   - In the text box, paste your GitHub repository URL:
-     ```
-     https://github.com/[YOUR_GITHUB_USERNAME]/[YOUR_REPOSITORY_NAME]
-     ```
-   - Click **Get it**.
-   - JitPack will automatically fetch your tag, build the `:auraprofile` AAR library artifact, and turn green (`Report: OK`).
-   - Done! Your library is now live and can be imported anywhere.
 
 ---
 
