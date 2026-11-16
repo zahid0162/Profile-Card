@@ -46,7 +46,18 @@ An ultra-creative, production-ready, and highly customizable **Profile & Info Ca
 
 ---
 
-app/src/main/res/Screen Recording 2026-11-16 140204.mp4
+## Application Screenshots
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e2def07c-6bdf-4f75-8dae-d274da0093b2" width="250"/>
+  <img src="https://github.com/user-attachments/assets/472a4f0f-7885-4206-baf7-99d4d8919731" width="250"/>
+  <img src="https://github.com/user-attachments/assets/4436fe4f-245d-4cc4-b4ce-c57a838f22b0" width="250"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b49e2574-d73a-4201-8a6d-da6eed09eca9" width="250"/>
+  <img src="https://github.com/user-attachments/assets/7b1c7d87-5fcc-434f-b722-20306ac65dfd" width="250"/>
+</p>
 
 ## 🎨 Card Archetypes
 
