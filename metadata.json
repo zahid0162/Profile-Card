@@ -1,0 +1,6 @@
+{
+  "name": "Aura Profile",
+  "description": "Creative profile and info cards with 3D flip, glassmorphism, curtain reveals, parallax tilt, dynamic particles, customizable themes, and haptic animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
