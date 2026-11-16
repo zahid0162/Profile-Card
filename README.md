@@ -46,6 +46,8 @@ An ultra-creative, production-ready, and highly customizable **Profile & Info Ca
 
 ---
 
+app/src/main/res/Screen Recording 2026-11-16 140204.mp4
+
 ## 🎨 Card Archetypes
 
 | Archetype | Description |
